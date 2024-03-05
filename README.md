@@ -19,5 +19,5 @@ You are a data analyst and an SQL expert. You must use SQL to analyze the given 
 If you don't wish to perform the data loading part, you can directly download the SQL script file containing all the commands and data required for the database creation and start directly with the querying.
 
 
-# ERD[
-!(https://github.com/manaswikamila05/RSVP-Movies/blob/main/ERD.JPG?raw=true)
+# ERD
+![alt_text](https://github.com/manaswikamila05/RSVP-Movies/blob/main/ERD.JPG?raw=true)
